@@ -1,0 +1,4 @@
+Alice (ID#1024) total=344.0 max=91.5 min=79.5 average=86.0
+Bob (ID#2048) total=448.5 max=95.0 min=84.0 average=89.7
+Charan (ID#3072) total=248.5 max=88.0 min=78.0 average=82.8
+Dana (ID#4096) total=394.5 max=100.0 min=97.0 average=98.6
